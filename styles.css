@@ -1,0 +1,138 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0;
+    padding: 0;
+    list-style: none;
+    
+}
+.header{
+    background-color: black;
+    font-style: italic;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    top: 0px;
+    margin: 0;
+    display: flex;
+    padding: 1% 1%;
+}
+.logo a{
+    text-decoration: none;
+    font-weight: 1000;
+    font-size: 40px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Poppins', sans-serif;
+    top: 0px;
+    color: rgb(88, 106, 119);
+}
+.nav {
+    background-color: rgb(176, 177, 191);
+    display: flex;
+    padding: 10px 0;
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.menu li{
+    display: inline-block;
+    padding: 0 20px;
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.menu li{
+    display: inline-block;
+    padding: 0 20px;
+    transition: opacity 0.2s ease-in-out;
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Poppins', sans-serif;
+}
+.menu:hover li {
+    opacity: 0.4;
+}
+
+section {
+    display: inline-block;
+    text-align: center;
+    margin: 20px;
+    vertical-align: top;
+  }
+  
+  h2 {
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-size: 30px;
+    opacity: 0.9;
+
+  }
+  
+  h3 {
+    background-color: rgb(138, 150, 159);
+    overflow: hidden;
+    width: 80px; /* Adjust the width as needed */
+    height: auto;
+    text-align: center;
+    margin-top: 30px;
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    border-radius: 10px;
+    background-image: url("C:\Users\Aditya\Downloads\student.png");
+    opacity: 0.8;
+    padding: 20px 10px;
+  }
+  
+  img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 10px;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 60px;
+    font-weight: 900;
+    margin-top: 100px;
+    font-style: italic;
+  }
+  
+  p {
+    font-size: 13px;
+    margin-top: 10px;
+  }
+  
+  main {
+    text-align: center;
+  }
+  .footer{
+    margin-top:140px; 
+    font-size: large;
+    display: flex;
+    text-align: center;
+    width:25%;
+    margin-left: 600px;
+    
+    margin-bottom: 300px;
+    
+  }
+  .logos a{
+    text-decoration: none;
+    font-weight: 1000;
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Diphylleia', serif;
+font-family: 'Poppins', sans-serif;
+    color: rgb(88, 106, 119);
+  }
+  .logos2 a{
+    text-decoration: none;
+    font-weight: 1000;
+    font-size: 20px;
+    font-family: 'Cormorant Garamond', serif;
+font-family: 'Dancing Script', cursive;
+font-family: 'Diphylleia', serif;
+font-family: 'Poppins', sans-serif;
+    top: 0px;
+    color: rgb(88, 106, 119);
+  }
